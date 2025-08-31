@@ -107,11 +107,8 @@
 
 ![3D Contributions](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
-</p>
 
-![GitHub Star Chart](https://github-readme-activity-graph.vercel.app/graph?username=allanlauron&bg_color=000000&color=FF0000&line=FF00FF&point=00FFFF&area=true&hide_border=true)
+
 
 
 
