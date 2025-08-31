@@ -40,6 +40,7 @@
 
 ## 🛠️ Languages & Tools  
 
+
 **Languages I Know**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -58,9 +59,6 @@
   <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
-</p>
 
 ## 📊 GitHub Stats  
 
@@ -100,12 +98,20 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+
+
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
 </p>
 
 
-![3D Contributions](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![3D Contributions](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) 
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
+</p>
+
+![Skill Graph](https://github-readme-activity-graph.vercel.app/graph?username=allanlauron&bg_color=000000&color=00ffcc&line=ff00ff&point=ffffff&area=true&hide_border=true)
 
 
 
