@@ -1,20 +1,31 @@
+![Profile Views](https://komarev.com/ghpvc/?username=allanlauron&color=blueviolet&style=for-the-badge)
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74780&center=true&vCenter=true&width=600&lines=Hi+there%2C+I+am+Allan+Christian+Lauron;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
+</p>
+
+
 
 <table>
 <tr>
 <td width="60%">
 
-## 🚀 About Me
+##  About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 -  A passionate **4th Year BSIT Student** aspiring to be a professional tambay.  
 -  I enjoy making music, making music, and continuously making music.  
 -  Currently learning in msu-iit.  
--  21 years old 
+-  21 years old
+
+  ![Anime](https://img.shields.io/badge/Anime-Lover-ff69b4?style=for-the-badge&logo=tvtime)
+![Coffee](https://img.shields.io/badge/Coffee-Addict-brown?style=for-the-badge&logo=buymeacoffee)
+![Gamer](https://img.shields.io/badge/Gamer-Mode-0078D7?style=for-the-badge&logo=xbox)
+
 
 </td>
 <td width="40%">
@@ -23,7 +34,9 @@
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
+</p>
 
 ## 🛠️ Languages & Tools  
 
@@ -41,16 +54,35 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
+</p>
 
 ## 📊 GitHub Stats  
 
+<table>
+<tr>
+<td width="60%">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allanlauron&show_icons=true&theme=gruvbox&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FFD700)
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Octocat Pet"/>
+
+</td>
+</tr>
+</table>
+
+  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allanlauron&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanlauron&layout=compact&theme=radical" alt="Top Languages" height="165" />
-
-
----
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
+</p>
 
 ## Comfort Playlist
 
@@ -60,13 +92,26 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
+</p>
 
 ## 💡 Random Quote of the Day  
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
+</p>
 
+
+![3D Contributions](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="10px"/>
+</p>
+
+![GitHub Star Chart](https://github-readme-activity-graph.vercel.app/graph?username=allanlauron&bg_color=000000&color=FF0000&line=FF00FF&point=00FFFF&area=true&hide_border=true)
 
 
 
