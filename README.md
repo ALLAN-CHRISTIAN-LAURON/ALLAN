@@ -1,4 +1,8 @@
-# 👋 Hi there, I'm Allan Christian Lauron  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74780&center=true&vCenter=true&width=600&lines=Hi+there%2C+I+am+Allan+Christian+Lauron;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -44,15 +48,25 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=allanlauron&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanlauron&layout=compact&theme=radical" alt="Top Languages" height="165" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="250">
-</p>
+
 
 ---
+
+## Comfort Playlist
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
     <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Playlist" />
   </a>
 </p>
+
+---
+
+## 💡 Random Quote of the Day  
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
 
 
